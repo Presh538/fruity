@@ -77,7 +77,7 @@ class _FruitPageState extends State<FruitPage> {
               ],
             ),
             SizedBox(
-              height: 15.0,
+              height: 20.0,
             ),
             Text(fruitName,
                 style: TextStyle(
